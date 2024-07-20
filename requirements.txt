@@ -1,8 +1,8 @@
 
 # --- For-Bot-Working --------- #
-pyrofork
+pyrogram==2.0.35
 TgCrypto
-pyromod
+pyromod==1.5.0
 # --- For-Database ------------ #
 pymongo
 motor
